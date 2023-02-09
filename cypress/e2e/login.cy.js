@@ -8,7 +8,7 @@ describe('로그인 화면', () => {
     cy.get('[href="/login"]').click();
 
     cy.get('.design-cache-prefix-t846p7').contains('로그인');
-
+    테스트
     
   });
 })
